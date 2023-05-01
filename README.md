@@ -32,3 +32,24 @@ MySQL
 9. Step 9: Open a web browser and navigate to the URL provided by the Laravel development server.
 
 We are good to go now!
+
+## Snapshots
+
+* Dashboard Page
+![Alt text](./client//snapshots/dashboard.png)
+
+* Login Page
+![Alt text](./client//snapshots/login.png)
+
+* Register Page
+![Alt text](./client//snapshots/register.png)
+
+* Detail Page before login
+![Alt text](./client//snapshots/detail-before-login.png)
+
+* Detail Page after login
+![Alt text](./client//snapshots/detail-after-login.png)
+
+* Favourites Page
+![Alt text](./client//snapshots/favourites.png)
+
